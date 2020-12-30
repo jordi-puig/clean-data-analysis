@@ -1,14 +1,14 @@
-# Neteja i An‡lisi de Dades
+# Neteja i An√†lisi de Dades
 
 ## Components
-Aquesta pr‡ctica ha estat realitzada integrament per l'alumne Jordi Puig Ovejero
+Aquesta pr√†ctica ha estat realitzada integrament per l'alumne Jordi Puig Ovejero
 
 ## Fitxers
 * bank-full.csv: dades originals.
 * bank_clean.csv: dades netejades.
-* header.html: capÁalera que Ès fa servir per la soluciÛ en html
-* PRA2.html: soluciÛ en format html **visualemnt Ès veu millor maquetat que el PDF**
-* PRA2.pdf: soluciÛ en format PDF generat amb RStudio
+* header.html: cap√ßalera que √©s fa servir per la soluci√≥ en html
+* PRA2.html: soluci√≥ en format html **visualment √©s veu millor maquetat que en PDF**
+* PRA2.pdf: soluci√≥ en format PDF generat amb RStudio
 * PRA2.Rmd: codi font en lleguantge R
-* README.md: explicaciÛ de la entrega
+* README.md: explicaci√≥ de la entrega
 
